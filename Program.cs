@@ -13,7 +13,6 @@ namespace ConsoleApplication
             b  = a * a;
             Console.WriteLine("Square value for " + a + " is :"  + b); 
         } else {
-  //user gave an illegal input. Handle it here.
             }
         }
     }
